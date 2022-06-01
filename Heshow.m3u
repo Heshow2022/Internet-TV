@@ -1,0 +1,1437 @@
+#EXTM3U
+#EXTNAME:Smart TV
+
+#EXTINF:-1,ELEVEN SPORTS 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+
+#EXTINF:-1,ELEVEN SPORTS 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a01p
+
+#EXTINF:-1,ELEVEN SPORTS 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://149.62.183.203:8002/play/a00b/index.m3u8
+
+#EXTINF:-1, EUROSPORT 1 TENNIS 
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
+
+#EXTINF:-1, TENNIS LIVE 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1fa-1f1f8"></span></span>
+http://stream2.grandma.fit/acc.m3u8
+
+#EXTINF:-1, TENNIS LIVE 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://Richi@stream2.grandma.fit/acc.m3u8
+
+#EXTINF:-1, TENIS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+https://streams.x10.bz/k3gf/mp.php/https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/f.m3u8
+
+#EXTINF:-1,ELEVEN SPORTS 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+
+#EXTINF:-1,ELEVEN SPORTS 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+
+#EXTINF:-1,ELEVEN SPORTS 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+
+#EXTINF:-1,ELEVEN SPORTS 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+
+#EXTINF:-1,Eleven 5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a01u
+
+#EXTINF:-1,Eleven 6 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://149.62.183.203:8002/play/a00e/index.m3u8
+
+#EXTINF:-1, GIRO ITALIA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 87.95534665099882%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1f9"></span></span>
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/343
+
+#EXTINF:-1, GIRO ITALIA
+https://multimedia.eitb.eus/live-content/oka2hd-hls/bitrate_4.m3u8?Pericopalote135
+
+#EXTINF:-1, GIRO ITALIA
+https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8
+
+#EXTINF:-1,M. Liga de Campeones HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/597
+
+#EXTINF:-1,M. Liga de Campeones HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://venomtt.com:8000/50568166938023/51353855007829/200447
+
+#EXTINF:-1,M. Liga de Campeones HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://venomtt.com:8000/50568166938023/51353855007829/30025
+
+#EXTINF:-1,M. Liga de Campeones HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://venomtt.com:8000/50568166938023/51353855007829/30130
+
+#EXTINF:-1,M. Liga de Campeones HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/620685
+
+#EXTINF:-1,M. Liga de Campeones HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757B:412:1:C00000:0:0:0:
+
+#EXTINF:-1, Bein Sports 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local//ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ZQ SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, PRIMA SPORT 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 42.00940070505288%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f4"></span></span>
+http://149.62.177.105:8001/play/a00n/index.m3u8
+
+#EXTINF:-1, TENIS
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8?mvk
+
+#EXTINF:-1, LaLiga TV <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://line.thesmartiptv.com:900/4297836676/9573024070/153728
+
+#EXTINF:-1, Supersport LaLiga <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://185.145.43.244:8000/play/a00d/index.m3u8
+
+#EXTINF:-1, Supersport LaLiga <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://line.thesmartiptv.com:900/4297836676/9573024070/190005
+
+#EXTINF:-1, beIN Sports 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, beIN Sports 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://stariptv.org:8080/nour2020/123456/141548
+
+#EXTINF:-1, NOVA Sport 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1ff"></span></span> 
+http://84.42.140.147:8890/hdmi
+
+#EXTINF:-1, MTV+ HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 77.96709753231492%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1f3"></span></span>
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
+
+#EXTINF:-1, MTV+ HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 77.96709753231492%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1f3"></span></span>
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ZQ SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 77.96709753231492%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1f3"></span></span>
+https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, beIN Sports 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
+#EXTINF:-1, beIN Sports 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
+
+#EXTINF:-1,SUPERSPORT LIGA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://194.67.196.19/hls/103.m3u8?mvk
+
+#EXTINF:-1,SUPERSPORT LIGA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://194.67.196.19/hls/103.m3u8
+
+#EXTINF:-1, ARENA SPORT 1 HD PREMIUM SERBIA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00g/index.m3u8?mvk
+
+#EXTINF:-1, ARENA SPORT 2 PREMIUM <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00h/index.m3u8
+
+#EXTINF:-1, bEIN_MAX INDONESIA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 69.9764982373678%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1e9"></span></span>
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/195
+
+#EXTINF:-1, bEIN_MAX INDONESIA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 69.9764982373678%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1e9"></span></span>
+http://shareext@urtv.cc:80/live/104595/104595/7195.ts?shareext.ts
+
+#EXTINF:-1, BEIN SPORT 3 MALASIA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1f2-1f1fe"></span></span>
+http://139.99.56.106:2082/sakinah1/sakinah1/8413
+
+#EXTINF:-1,Setanta Sports 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+https://livetv.mylifeisgood.ml/channels/setantahd
+
+#EXTINF:-1,Setanta Sports 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+https://livetv.mylifeisgood.ml/channels/setantaplus
+
+#EXTINF:-1,setanta_sports <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 24.030552291421856%;background-size:5418.75% 5418.75%" data-codepoints="1f1fa-1f1e6"></span></span>
+http://195.189.60.252:3109/play/a039
+
+#EXTINF:-1,setanta_sports_plus <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 24.030552291421856%;background-size:5418.75% 5418.75%" data-codepoints="1f1fa-1f1e6"></span></span>
+http://195.189.60.252:3109/play/a03a
+
+#EXTINF:-1, TURMEKISTAN SPORT  <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 14.042303172737954%;background-size:5418.75% 5418.75%" data-codepoints="1f1f9-1f1f7"></span></span>
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1, DAZN 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 75.96944770857814%;background-size:5418.75% 5418.75%" data-codepoints="1f1e9-1f1ea"></span></span>
+http://79.143.17.78:2085/play/a0a0/index.m3u8
+
+#EXTINF:-1,DAZN 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 75.96944770857814%;background-size:5418.75% 5418.75%" data-codepoints="1f1e9-1f1ea"></span></span>
+http://149.62.183.209:4549/play/a04h/index.m3u8
+
+#EXTINF:-1,DAZN 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 75.96944770857814%;background-size:5418.75% 5418.75%" data-codepoints="1f1e9-1f1ea"></span></span>
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/557
+
+#EXTINF:-1,DAZN 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 75.96944770857814%;background-size:5418.75% 5418.75%" data-codepoints="1f1e9-1f1ea"></span></span>
+http://149.62.183.209:4549/play/a02w/index.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJH9gUYooJbVMF7v-Il8_bps/ts
+
+#EXTINF:-1, MOVISTAR LALIGA 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOM9-HqsaWnxwL_OyUXGh1I/ts
+
+#EXTINF:-1, VAMOS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJPAjWOIDxuxDjnIofO3MYFA/ts
+
+#EXTINF:-1, MOVISTAR Liga Campeones <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://www.webcsn.ru.com/cdn/premium435/chunks.m3u8?
+
+#EXTINF:-1, MMN HD SPORT <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1f6"></span></span>
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
+
+#EXTINF:-1, DirecTV Sports <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1,ESPN VIVO <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.189.117.99:8000/play/a01p/index.m3u8
+
+#EXTINF:-1,ESPN 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.189.117.99:8000/play/a017/index.m3u8
+
+#EXTINF:-1,ESPN 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.189.117.99:8000/play/a03d/index.m3u8
+
+#EXTINF:-1,ESPN 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.189.117.99:8000/play/a051/index.m3u8
+
+#EXTINF:-1,ESPN HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.225.95.170:8000/play/a0mg/index.m3u8
+
+#EXTINF:-1,ESPN 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.225.95.170:8000/play/a0j9/index.m3u8
+
+#EXTINF:-1,ESPN 3 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.225.95.170:8000/play/a0kx/index.m3u8
+
+#EXTINF:-1,ESPN 4 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.225.95.170:8000/play/a0ob/index.m3u8
+
+#EXTINF:-1, ESPN VIVO <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+
+#EXTINF:-1,ESPN <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.71.185.142:8500/play/a01e
+
+#EXTINF:-1,ESPN 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.71.185.142:8500/play/a015
+
+#EXTINF:-1,ESPN 3 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://200.24.132.99:8000/play/a02w
+
+#EXTINF:-1,ESPN 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.71.185.142:8500/play/a021
+
+#EXTINF:-1,ESPN VIVO <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.236.175.93:9600/play/a00x
+
+#EXTINF:-1,ESPN 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.236.175.93:9600/play/a00n
+
+#EXTINF:-1,ESPN 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.236.175.93:9600/play/a02t
+
+#EXTINF:-1,SKY SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/60373.m3u8
+
+#EXTINF:-1,Fox Sports <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.236.175.93:9600/play/a00v
+
+#EXTINF:-1,Fox Sports 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.236.175.93:9600/play/a01h
+
+#EXTINF:-1,Fox Sports 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.71.185.142:8500/play/a01n
+
+#EXTINF:-1,Fox Sports 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+http://45.71.185.142:8500/play/a01o
+
+#EXTINF:-1, ATV VIVO <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 12.044653349001175%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1ea"></span></span>
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+
+#EXTINF:-1, TELECOSTA LALIGA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 91.95064629847238%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1e8"></span></span>
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1, TV MAX <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1, TV MAX <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/963e14317afb436484576a46b28c8fd7/playlist_dvr_ssaiM.m3u8
+
+#EXTINF:-1, TV MAX <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8?fbclid=IwAR2i_B1bNbjfinksiN_GAzLzRqee5FDSguDp2uVkPmDit3CJ2eiUCx2-9Fc
+
+#EXTINF:-1, UNIVISION <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f7"></span></span>
+https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+
+#EXTINF:-1,SBT AO VIVO <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1f7"></span></span>
+https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w42448997_b216000_sleng.m3u8
+
+#EXTINF:-1, TNT SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1f7"></span></span>
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1, Bein Sports 3 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+
+#EXTINF:-1, GEO SUPER <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 77.96709753231492%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1f3"></span></span>
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+
+#EXTINF:-1, GEO SUPER <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 77.96709753231492%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1f3"></span></span>
+http://221.120.204.4:8080/geo-super-LOCKLE/index.m3u8
+
+#EXTINF:-1, GEO SUPER <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 77.96709753231492%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1f3"></span></span>
+http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?token=rk%F0%9F%8F%8F
+
+#EXTINF:-1, GEO SUPER <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 77.96709753231492%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1f3"></span></span>
+http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
+
+#EXTINF:-1,ELEVEN SPORTS 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+
+#EXTINF:-1,ELEVEN SPORTS 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+
+#EXTINF:-1,ELEVEN SPORTS 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+
+#EXTINF:-1,ELEVEN SPORTS 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+
+#EXTINF:-1,ELEVEN SPORTS 5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+
+#EXTINF:-1,ELEVEN SPORTS 6 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
+
+#EXTINF:-1,ELEVEN SPORTS 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
+
+#EXTINF:-1,ELEVEN SPORTS 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJLdC6sguiyX8N2QI-yX-d64/ts
+
+#EXTINF:-1,ELEVEN SPORTS 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJCj-3rEl3NmItfMAMT_ShRE/ts
+
+#EXTINF:-1,ELEVEN SPORTS 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOSZsWI3Dx4VfxyLQOwcoX0/ts
+
+#EXTINF:-1,ELEVEN SPORTS 5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJCK3CZq-25JorpVxvxLOm6M/ts
+
+#EXTINF:-1,ELEVEN SPORTS 6 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJFGRezPP_E_YrLaVH7MB7KE/ts
+
+#EXTINF:-1,Eleven 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a01s
+
+#EXTINF:-1,Eleven 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a01p
+
+#EXTINF:-1,Eleven 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a01q
+
+#EXTINF:-1,Eleven 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a01t
+
+#EXTINF:-1,Eleven 5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a01u
+
+#EXTINF:-1,Eleven 6 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a01r
+
+#EXTINF:-1,Eleven 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://149.62.183.203:8002/play/a00b/index.m3u8
+
+#EXTINF:-1,Eleven 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://149.62.183.203:8002/play/a00d/index.m3u8
+
+#EXTINF:-1,Eleven 6 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://149.62.183.203:8002/play/a00e/index.m3u8
+
+#EXTINF:-1,SPORT TV + <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a00f
+
+#EXTINF:-1,SPORT TV 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a003
+
+#EXTINF:-1,SPORT TV 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a004
+
+#EXTINF:-1,SPORT TV 3 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a005
+
+#EXTINF:-1,SPORT TV 4 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a008
+
+#EXTINF:-1,Sport TV 5 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a00a
+
+#EXTINF:-1,Sport TV 6 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://89.114.126.46:4000/play/a00b
+
+#EXTINF:-1,SPORT TV 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://149.62.183.203:8002/play/a005/index.m3u8
+
+#EXTINF:-1,SPORT TV 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://149.62.183.203:8002/play/a006/index.m3u8
+
+#EXTINF:-1,SPORT TV 3 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://149.62.183.203:8002/play/a007/index.m3u8
+
+#EXTINF:-1,SPORT TV 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+http://85.245.237.73:8082/play/a001
+
+#EXTINF:-1, beIN Sports 1 Premium <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/index.m3u8
+
+#EXTINF:-1, beIN Sports 1 Premium <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, beIN Sports 2 Premium <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/index.m3u8
+
+#EXTINF:-1, beIN Sports 3 Premium <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local/ar-s/B-S-pre-3-stop/index.m3u8
+
+#EXTINF:-1, beIN Sports 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, beIN Sports 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local//ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Bein Sports 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local//ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Bein Sports 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local//ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Bein Sports 5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local//ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Bein Sports 6 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local//ar-s/bein-6-stop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Bein Sports 7 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local//ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, beIN Sports 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
+#EXTINF:-1, beIN Sports 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://93.152.174.144:4000/play/bein2ar/index.m3u8
+
+#EXTINF:-1, Bein Sports 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+
+#EXTINF:-1, Bein Sports 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+
+#EXTINF:-1, Bein Sports 5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+
+#EXTINF:-1, Bein Sports 7 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://93.152.174.144:4000/play/bein7/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local//ar-s/pEmPdyrGGz/index.m3u8
+
+#EXTINF:-1, beIN Sports AFC 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local/ar-s/bein-afc-1/index.m3u8
+
+#EXTINF:-1, beIN Sports AFC 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local/ar-s/bein-afc-2/index.m3u8
+
+#EXTINF:-1, beIN Sports AFC 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local/ar-s/bein-afc-3/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS NEWS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 38.01410105757932%;background-size:5418.75% 5418.75%" data-codepoints="1f1f6-1f1e6"></span></span>
+http://217.74.16.155:8082/local//ar-s/WhKxECvZSk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS EXTRA Ñ <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
+#EXTINF:-1, BEIN SPORT EXTRA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+
+#EXTINF:-1, BEIN SPORT EXTRA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
+
+#EXTINF:-1, BEIN SPORT EXTRA Ñ <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTINF:-1, beIN Sports 1 French <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 16.039952996474735%;background-size:5418.75% 5418.75%" data-codepoints="1f1eb-1f1f7"></span></span>
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+
+#EXTINF:-1, beIN Sports 2 French <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 16.039952996474735%;background-size:5418.75% 5418.75%" data-codepoints="1f1eb-1f1f7"></span></span>
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+
+#EXTINF:-1, beIN Sports 3 French <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 16.039952996474735%;background-size:5418.75% 5418.75%" data-codepoints="1f1eb-1f1f7"></span></span>
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
+#EXTINF:-1, beinSports_English_1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://185.145.43.244:8000/play/a00l/index.m3u8
+
+#EXTINF:-1, beinSports_English_3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://85.245.237.73:8082/play/a00e
+
+#EXTINF:-1, BT SPORT 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://shareext@urtv.cc:80/live/104595/104595/6748.ts?shareext.ts
+
+#EXTINF:-1, DSTV SUPERSPORT <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://starshare.live:8080/live/Shoaibkhan/Yazan786/515.ts
+
+#EXTINF:-1, SUPER GRANDSTAND <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://185.145.43.244:8000/play/a008/index.m3u8
+
+#EXTINF:-1, ZQ SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ZQ SPORTS LIVE <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ESPN USA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1fa-1f1f8"></span></span>
+http://69.164.224.53:80/ESPN/mpegts
+
+#EXTINF:-1, ESPN 1 USA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1fa-1f1f8"></span></span>
+http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
+
+#EXTINF:-1, ESPN 2 USA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1fa-1f1f8"></span></span>
+http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
+
+#EXTINF:-1,SUPERSPORT 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/208
+
+#EXTINF:-1,SUPERSPORT 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/209
+
+#EXTINF:-1,SUPERSPORT 3 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/210
+
+#EXTINF:-1,SUPERSPORT 4 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/211
+
+#EXTINF:-1, KUJTESA SPORT 1HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://185.222.138.163:9000/play/a0ts
+
+#EXTINF:-1, KUJTESA SPORT 2HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://185.222.138.163:9000/play/a0tt
+
+#EXTINF:-1, KUJTESA SPORT 4HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://185.222.138.163:9000/play/a0uv
+
+#EXTINF:-1,Tring sport 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://95.107.132.106/out/u/864_4.m3u8 
+
+#EXTINF:-1,Tring sport 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://95.107.132.106/out/u/865_4.m3u8 
+
+#EXTINF:-1,Tring sport 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://95.107.132.106/out/u/867_4.m3u8
+
+#EXTINF:-1,OVERSPORT 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/229
+
+#EXTINF:-1,OVERSPORT 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/230
+
+#EXTINF:-1,OVERSPORT 3 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/231
+
+#EXTINF:-1,SPORT 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://91.132.172.169:8000/play/a01q/index.m3u8
+
+#EXTINF:-1,SPORT 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://95.107.132.106/out/u/683_7.m3u8
+
+#EXTINF:-1,SPORT1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://91.132.172.169:8000/play/a02s/index.m3u8
+
+#EXTINF:-1,SPORT 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://45.58.122.106:8081/live/ts1/playlist.m3u8
+
+#EXTINF:-1,SPORT 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://91.132.172.169:8000/play/a01r/index.m3u8
+
+#EXTINF:-1,SPORT 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://95.107.132.106/out/u/692_7.m3u8
+
+#EXTINF:-1,SPORT 3 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://91.132.172.169:8000/play/a01s/index.m3u8
+
+#EXTINF:-1,SPORT 3 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f1"></span></span>
+http://95.107.132.106/out/u/700_2.m3u8
+
+#EXTINF:-1,Polsat_Sport_HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f1"></span></span>
+http://194.76.186.151:20001/play/Polsat_Sport_HD
+
+#EXTINF:-1,Polsat_Sport_Extra_HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f1"></span></span>
+http://194.76.186.151:20001/play/Polsat_Sport_Extra_HD
+
+#EXTINF:-1, PRIMA SPORT 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 42.00940070505288%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f4"></span></span>
+http://149.62.177.105:8001/play/a00e/index.m3u8
+
+#EXTINF:-1, PRIMA SPORT 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 42.00940070505288%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f4"></span></span>
+http://149.62.177.105:8001/play/a00n/index.m3u8
+
+#EXTINF:-1, PRIMA SPORT 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 42.00940070505288%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f4"></span></span>
+http://149.62.177.105:8001/play/a00f/index.m3u8
+
+#EXTINF:-1, PRIMA SPORT 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 42.00940070505288%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f4"></span></span>
+http://149.62.177.105:8001/play/a00m/index.m3u8
+
+#EXTINF:-1, ORANGE SPORT 1HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 42.00940070505288%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f4"></span></span>
+https://www.webcsn.ru.com/cdn/premium439/chunks.m3u8|Referer=https://player.licenses4.me/
+
+#EXTINF:-1, ORANGE SPORT 2HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 42.00940070505288%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f4"></span></span>
+https://www.webcsn.ru.com/cdn/premium440/chunks.m3u8|Referer=https://player.licenses4.me/
+
+#EXTINF:-1, ORANGE SPORT 3HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 42.00940070505288%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f4"></span></span>
+https://www.webcsn.ru.com/cdn/premium441/chunks.m3u8|Referer=https://player.licenses4.me/
+
+#EXTINF:-1, ORANGE SPORT 4HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 42.00940070505288%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f4"></span></span>
+https://www.webcsn.ru.com/cdn/premium442/chunks.m3u8|Referer=https://player.licenses4.me/
+
+#EXTINF:-1, DIGI SPORT 1HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 42.00940070505288%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f4"></span></span>
+https://www.webcsn.ru.com/cdn/premium400/chunks.m3u8|Referer=https://player.licenses4.me/
+
+#EXTINF:-1, DIGI SPORT 2HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 42.00940070505288%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f4"></span></span>
+https://www.webcsn.ru.com/cdn/premium401/chunks.m3u8|Referer=https://player.licenses4.me/ 
+
+#EXTINF:-1, DIGI SPORT 3HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 42.00940070505288%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f4"></span></span>
+https://www.webcsn.ru.com/cdn/premium402/chunks.m3u8|Referer=https://player.licenses4.me/
+
+#EXTINF:-1, DIGI SPORT 4HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 42.00940070505288%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f4"></span></span>
+https://www.webcsn.ru.com/cdn/premium403/chunks.m3u8|Referer=https://player.licenses4.me/
+
+#EXTINF:-1, ARENA SPORT 1 PREMIUM <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00g/index.m3u8
+
+#EXTINF:-1, ARENA SPORT 2 PREMIUM <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00h/index.m3u8
+
+#EXTINF:-1, ARENA SPORT 3 PREMIUM <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00i/index.m3u8
+
+#EXTINF:-1, Arena_1_PREMIUM <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://5.206.237.66:9000/play/a06z
+
+#EXTINF:-1, Arena_2_PREMIUM <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://5.206.237.66:9000/play/a071
+
+#EXTINF:-1, Arena_3_PREMIUM <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://5.206.237.66:9000/play/a072
+
+#EXTINF:-1, ARENA SPORT 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a002/index.m3u8
+
+#EXTINF:-1, ARENA SPORT 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00t/index.m3u8
+
+#EXTINF:-1, ARENA SPORT 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00u/index.m3u8
+
+#EXTINF:-1,Arena Sport 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a004/index.m3u8
+
+#EXTINF:-1,Arena Sport 3 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://185.205.201.101:8024/play/a05m
+
+#EXTINF:-1,Arena Sport 3 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00v/index.m3u8
+
+#EXTINF:-1,Arena Sport 4 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00w/index.m3u8
+
+#EXTINF:-1,Arena 5 - HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00x/index.m3u8
+
+#EXTINF:-1,Arena 6 - HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00y/index.m3u8
+
+#EXTINF:-1, Arena_Sport_1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://5.206.237.66:9000/play/a075
+
+#EXTINF:-1, Arena_Sport_2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://5.206.237.66:9000/play/a076
+
+#EXTINF:-1, Arena_Sport_3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://5.206.237.66:9000/play/a077
+
+#EXTINF:-1, Arena_Sport_4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://5.206.237.66:9000/play/a073
+
+#EXTINF:-1, Arena_Sport_5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://5.206.237.66:9000/play/a074
+
+#EXTINF:-1,SK1 - HD - <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00e/index.m3u8
+
+#EXTINF:-1,Sport Klub 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00q/index.m3u8
+
+#EXTINF:-1,Sport Klub 5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00r/index.m3u8
+
+#EXTINF:-1,Sport Klub 6 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://46.29.169.15:4001/play/a00s/index.m3u8
+
+#EXTINF:-1,Sport Klub 1 FHD Sr <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://141.95.52.206:6565/play/a066
+
+#EXTINF:-1,Sport Klub 2 FHD Sr <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://141.95.52.206:6565/play/a067
+
+#EXTINF:-1,Sport Klub 3 FHD Sr <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://141.95.52.206:6565/play/a068
+
+#EXTINF:-1,Sport Klub 4 Sr <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://141.95.52.206:6565/play/a069
+
+#EXTINF:-1,Sport Klub 5 Sr <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://141.95.52.206:6565/play/a06a
+
+#EXTINF:-1,Sport Klub 6 Sr <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://141.95.52.206:6565/play/a06b
+
+#EXTINF:-1, SPORT KLUB HD 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://194.15.225.98:8000/play/a2qu
+
+#EXTINF:-1, SPORT KLUB HD 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://194.15.225.98:8000/play/a2qz
+
+#EXTINF:-1, SPORT KLUB HD 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://194.15.225.98:8000/play/a2qt
+
+#EXTINF:-1,SportKlub 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://185.205.201.101:8024/play/a05k
+
+#EXTINF:-1,SportKlub 3 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://185.205.201.101:8024/play/a05l
+
+#EXTINF:-1, SPORT KLUB HD 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 44.00705052878966%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1f8"></span></span>
+http://194.15.225.98:8000/play/a2qt
+
+#EXTINF:-1, Arena 1 PREMIUM HR <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a00g/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena 2 PREMIUM HR <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a00h/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena 3 PREMIUM HR <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a00i/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena Sport 1 HR <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a002/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena Sport 2 HR <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a003/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena Sport 3 HR <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a004/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena Sport 4 HR <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a005/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena Sport 5 HR <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span> 
+http://46.29.169.15:4001/play/a006/index.m3u8|User-Agent=stream
+
+#EXTINF:-1,Arena 1 - HD - IP <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span> 
+http://46.29.169.15:4001/play/a00t/index.m3u8
+
+#EXTINF:-1,Arena 2 - HD - IP <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span> 
+http://46.29.169.15:4001/play/a00u/index.m3u8
+
+#EXTINF:-1,Arena 3 - HD - IP <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span> 
+http://46.29.169.15:4001/play/a00v/index.m3u8
+
+#EXTINF:-1,Arena 4 - HD - IP <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span> 
+http://46.29.169.15:4001/play/a00w/index.m3u8
+
+#EXTINF:-1,Arena 5 - HD - IP <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span> 
+http://46.29.169.15:4001/play/a00x/index.m3u8
+
+#EXTINF:-1,Arena 6 - HD - IP <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span> 
+http://46.29.169.15:4001/play/a00y/index.m3u8
+
+#EXTINF:-1, SK 1 Croacia <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a00e/index.m3u8
+
+#EXTINF:-1, SK 1 Croacia <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a001/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, SK 1 Croacia <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://185.53.88.121/live/goran467/08qok5hHdu/12037.m3u8?token=Q0BfAkUMRAIXAAUAAgcJBVYMBAIFBVcEUlUDAVNSUgQJUlMAAlNSXQMSTxpFR0JWUlRrWlYQWwNWAAVVTRJFEV0QaApSRlwaBgRSCQYRHBFHUFlWEAhRHkZAXwZDChJTAVIOUBRIRF1NRAZKWFJcbFdcQlpRV0MICkVaDk0SXwxnBlIOVwoCGg8SUxoaEVlAQxsOXUdeDR5GUl8WE1FEBxpYFVAHUFQaGRIAV0NdREFKGw4Rd2FDHkZVThYEXkMLVwwVWRQJVU0NEk8aX0BvQVZKQEFXUwxXFhIMQFESHEBVA088VQsIVlBTF1FZXUMRCRsFER4QDF0KWUINE29AC1xADUEHXVYPARIe
+
+#EXTINF:-1, SK 2 Croacia <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a00e/index.m3u8|User-Agent=stream
+
+#EXTINF:-1,SK1 - HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a001/index.m3u8
+
+#EXTINF:-1,SK1 - HD - IP <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a00e/index.m3u8
+
+#EXTINF:-1,Sport Klub 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a00q/index.m3u8
+
+#EXTINF:-1,Sport Klub 5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a00r/index.m3u8
+
+#EXTINF:-1,Sport Klub 6 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://46.29.169.15:4001/play/a00s/index.m3u8
+
+#EXTINF:-1,Sport Klub 1 FHD Hr <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://141.95.52.206:6565/play/a060
+
+#EXTINF:-1,Sport Klub 2 FHD Hr <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://141.95.52.206:6565/play/a061
+
+#EXTINF:-1,Sport Klub 3 FHD Hr <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://141.95.52.206:6565/play/a062
+
+#EXTINF:-1,Sport Klub 4 Hr <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://141.95.52.206:6565/play/a063
+
+#EXTINF:-1,Sport Klub 5 Hr <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://141.95.52.206:6565/play/a064
+
+#EXTINF:-1,Sport Klub 6 Hr <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://141.95.52.206:6565/play/a065
+
+#EXTINF:-1,Nova Sport HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://141.95.52.206:6565/play/a05g
+
+#EXTINF:-1,HRT2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
+
+#EXTINF:-1, HRT 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1,Nova Bosnia HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 95.94594594594594%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1e6"></span></span>
+http://91.132.74.194:7374/play/a00f/index.m3u8
+
+#EXTINF:-1, RTK1 KOSOVO <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 55.99294947121034%;background-size:5418.75% 5418.75%" data-codepoints="1f1fd-1f1f0"></span></span>
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
+
+#EXTINF:-1,110_Max sport 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://83.228.88.114:8000/play/a04c
+
+#EXTINF:-1,MAX sport 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://79.124.72.70:8000/play/a01j
+
+#EXTINF:-1,MAX sport 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://79.124.72.70:8000/play/a00x
+
+#EXTINF:-1,MAX sport 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://79.124.72.70:8000/play/a07n
+
+#EXTINF:-1,MAX sport 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://46.40.90.163:13001/play/a02i
+
+#EXTINF:-1,bTV-1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://62.73.127.98:9797/play/a002/index.m3u8
+
+#EXTINF:-1,bTV-2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://62.73.127.98:9797/play/a004/index.m3u8
+
+#EXTINF:-1,NOVA 1 Sport <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://91.132.172.169:8000/play/a02z/index.m3u8
+
+#EXTINF:-1,NOVA 2 Sport <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://91.132.172.169:8000/play/a030/index.m3u8
+
+#EXTINF:-1,Nova Sp -1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://62.73.127.98:9797/play/a00b/index.m3u8
+
+#EXTINF:-1,Nova Sp -2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://62.73.127.98:9797/play/a00c/index.m3u8
+
+#EXTINF:-1,OTE Sport <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://91.132.172.169:8000/play/a031/index.m3u8
+
+#EXTINF:-1,Diema Sport HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://46.40.90.163:13001/play/a04i
+
+#EXTINF:-1,Diema Sport 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://62.73.127.98:9797/play/a007/index.m3u8
+
+#EXTINF:-1,Diema Sport 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://62.73.127.98:9797/play/a008/index.m3u8
+
+#EXTINF:-1,Diema Sport 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://62.73.127.98:9797/play/a00a/index.m3u8
+
+#EXTINF:-1,Diema Sport 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://62.73.127.98:9797/play/a009/index.m3u8
+
+#EXTINF:-1,Diema Sport 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://62.73.127.98:9797/play/a00d/index.m3u8
+
+#EXTINF:-1,Diema Sport 3  <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://62.73.127.98:9797/play/a00e/index.m3u8
+
+#EXTINF:-1,Diema Sport <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://79.124.72.70:8000/play/a004
+
+#EXTINF:-1,Diema Sport 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://79.124.72.70:8000/play/a01l
+
+#EXTINF:-1,Diema Sport 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://79.124.72.70:8000/play/a07o
+
+#EXTINF:-1, NOVA SPORT <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 4.054054054054054%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ec"></span></span>
+http://79.124.72.70:8000/play/a015
+
+#EXTINF:-1, Sport 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1ff"></span></span> 
+http://panel.ooguy.com:9002/Sport1.m3u8
+
+#EXTINF:-1, Sport 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1ff"></span></span> 
+http://panel.ooguy.com:9002/Sport2.m3u8
+
+#EXTINF:-1, NOVA Sport 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1ff"></span></span> 
+http://84.42.140.147:8890/hdmi
+
+#EXTINF:-1, O2 TV SPORT HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1ff"></span></span> 
+http://84.42.140.148:8880/hdmi
+
+#EXTINF:-1, JOJ Sport <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1ff"></span></span> 
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8
+
+#EXTINF:-1, SPORT PREMIUM <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1ff"></span></span> 
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+
+#EXTINF:-1, RUSH HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+
+#EXTINF:-1, RUSH SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://38.127.211.18/live/c2eds/RushHD/HLS/RushHD-mp4a_128000_eng=4.m3u8 
+
+#EXTINF:-1,Setanta Sports 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+https://livetv.mylifeisgood.ml/channels/setantahd
+
+#EXTINF:-1,Setanta Sports 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+https://livetv.mylifeisgood.ml/channels/setantaplus
+
+#EXTINF:-1, MATH <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1, MATH HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://46.174.83.66/MatchTV/index.m3u8?
+
+#EXTINF:-1, Матч ТВ <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://85.92.123.108:6060/play/matchtv/index.m3u8
+
+#EXTINF:-1, Матч! <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://95.47.98.99:4000/play/a01j/index.m3u8
+
+#EXTINF:-1,03 МАТЧ!<span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://91.234.255.242:8000/play/a011/index.m3u8
+
+#EXTINF:-1, Матч! HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://50.7.188.186/Match_TV_HD/mono.m3u8
+
+#EXTINF:-1, Матч! Футбол 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://95.47.98.99:5300/play/a02e/index.m3u8
+
+#EXTINF:-1, Матч! Футбол 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
+
+#EXTINF:-1,Матч! Футбол 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://foreign-default.persik.by:82/live/Ch39/index.m3u8
+
+#EXTINF:-1,Матч! Футбол 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://31.173.178.110:8205/play/a098/index.m3u8
+
+#EXTINF:-1, Матч! Футбол 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://95.47.98.99:5000/play/a005/index.m3u8
+
+#EXTINF:-1, Матч! Футбол 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
+
+#EXTINF:-1,Матч! Футбол 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://foreign-default.persik.by:82/live/Ch217/index.m3u8
+
+#EXTINF:-1,Матч! Футбол 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://31.173.178.110:8205/play/a099/index.m3u8
+
+#EXTINF:-1, Матч! Футбол 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://95.47.98.99:5000/play/a004/index.m3u8
+
+#EXTINF:-1, Матч! Футбол 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
+
+#EXTINF:-1,Матч! Футбол 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://foreign-default.persik.by:82/live/Ch218/index.m3u8
+
+#EXTINF:-1,Матч! Футбол 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://31.173.178.110:8205/play/a09a/index.m3u8
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://79.124.72.70:8000/play/a02r
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://79.124.72.70:8000/play/a02s
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://79.124.72.70:8000/play/a02t
+
+#EXTINF:-1, Футбол 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://50.7.188.186/Futbol1HDUA/mono.m3u8
+
+#EXTINF:-1, Футбол 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://50.7.188.186/Futbol2HDUA/mono.m3u8
+
+#EXTINF:-1, Футбол 3 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://50.7.188.186/Futbol3HDUA/mono.m3u8
+
+#EXTINF:-1, Футбол <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://95.47.98.99:5300/play/a02l/index.m3u8
+
+#EXTINF:-1, Футбол <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://95.47.98.222:5300/play/a02l/index.m3u8
+
+#EXTINF:-1,setanta_sports <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 24.030552291421856%;background-size:5418.75% 5418.75%" data-codepoints="1f1fa-1f1e6"></span></span>
+http://195.189.60.252:3109/play/a039
+
+#EXTINF:-1,setanta_sports <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 24.030552291421856%;background-size:5418.75% 5418.75%" data-codepoints="1f1fa-1f1e6"></span></span>
+http://50.7.188.186/Setanta_SportsHD_UA/mono.m3u8
+
+#EXTINF:-1,setanta_sports_plus <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 24.030552291421856%;background-size:5418.75% 5418.75%" data-codepoints="1f1fa-1f1e6"></span></span>
+http://195.189.60.252:3109/play/a03a
+
+#EXTINF:-1,Setanta Eurasia HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 24.030552291421856%;background-size:5418.75% 5418.75%" data-codepoints="1f1fa-1f1e6"></span></span>
+http://50.7.92.90/SetantaEurasia/mono.m3u8
+
+#EXTINF:-1, VIASAT SPORT <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1, VIASAT SPORT <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 57.99059929494712%;background-size:5418.75% 5418.75%" data-codepoints="1f1f8-1f1ea"></span></span>
+http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1, SPORT 1+1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:-1, SPORT RU <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+
+#EXTINF:-1, X SPORT <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+
+#EXTINF:-1, KBP SPORT <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1f7-1f1fa"></span></span>
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1, Беларусь 5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1fe"></span></span>
+http://foreign-default.persik.by:82/livehq/Ch323hd/index.m3u8
+
+#EXTINF:-1, Беларусь 5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1fe"></span></span>
+http://82.209.197.187:8080/udp/239.0.100.9:1234
+
+#EXTINF:-1, Беларусь 5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1fe"></span></span>
+http://50.7.188.186/belarus_5/mono.m3u8
+
+#EXTINF:-1, Qazsport <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 16.039952996474735%;background-size:5418.75% 5418.75%" data-codepoints="1f1f0-1f1ff"></span></span>
+http://85.92.123.108:6060/play/qazsport/index.m3u8
+
+#EXTINF:-1,QAZSPORT <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 16.039952996474735%;background-size:5418.75% 5418.75%" data-codepoints="1f1f0-1f1ff"></span></span>
+http://91.185.3.218:8000/play/204
+
+#EXTINF:-1,QAZSPORT HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 16.039952996474735%;background-size:5418.75% 5418.75%" data-codepoints="1f1f0-1f1ff"></span></span>
+http://91.185.3.218:8000/play/529
+
+#EXTINF:-1, 3 SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f1-1f1f9"></span></span>
+http://185.44.75.203:38171/play/a00f/index.m3u8
+
+#EXTINF:-1, 3 SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f1-1f1f9"></span></span>
+http://185.44.75.203:38171/play/a00h/index.m3u8
+
+#EXTINF:-1, 3 SPORTS 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f1-1f1f9"></span></span>
+http://185.44.75.203:38171/play/a00g/index.m3u8
+
+#EXTINF:-1, 3 SPORT OPEN <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f1-1f1f9"></span></span>
+http://185.44.75.203:38171/play/a00k/index.m3u8
+
+#EXTINF:-1, Ziggo Select HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 97.94359576968273%;background-size:5418.75% 5418.75%" data-codepoints="1f1f3-1f1f1"></span></span>
+http://82.197.214.59:4000/play/a01v/index.m3u8
+
+#EXTINF:-1, Digi Sport 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 65.98119858989423%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1fa"></span></span>
+http://new-pro.tv:8080/Fernando/123321/62880
+
+#EXTINF:-1, Digi Sport 2 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 65.98119858989423%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1fa"></span></span>
+http://new-pro.tv:8080/Fernando/123321/62881
+
+#EXTINF:-1 ,2 SPORT HUNGRIA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 65.98119858989423%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1fa"></span></span>
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+
+#EXTINF:-1 , LIVE SPORT HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 65.98119858989423%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1fa"></span></span>
+http://195.222.7.26:7001/play/a00t
+
+#EXTINF:-1,SPORT1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 75.96944770857814%;background-size:5418.75% 5418.75%" data-codepoints="1f1e9-1f1ea"></span></span>
+http://149.62.183.209:4549/play/a050/index.m3u8
+
+#EXTINF:-1,SPORT1+ <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 75.96944770857814%;background-size:5418.75% 5418.75%" data-codepoints="1f1e9-1f1ea"></span></span>
+http://149.62.183.209:4549/play/a06m/index.m3u8
+
+#EXTINF:-1,Sky Sport Austria 1 HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 85.95769682726204%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f9"></span></span>
+http://149.62.183.209:4549/play/a04i/index.m3u8
+
+#EXTINF:-1 , SAN MARINO SPORT <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 71.97414806110459%;background-size:5418.75% 5418.75%" data-codepoints="1f1f8-1f1f2"></span></span>
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+
+#EXTINF:-1, Sony Ten 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1f2-1f1fe"></span></span>
+http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34491?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+
+#EXTINF:-1,Astro Super Sport 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1f2-1f1fe"></span></span>
+http://203.154.243.89:21202/nakhon
+
+#EXTINF:-1,Astro Super Sport 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1f2-1f1fe"></span></span>
+http://203.154.243.89:21203/nakhon
+
+#EXTINF:-1,Astro Super Sport 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1f2-1f1fe"></span></span>
+http://203.154.243.89:21204/nakhon
+
+#EXTINF:-1, Astro Super Sport 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1f2-1f1fe"></span></span>
+http://203.154.243.89:21204/saraburi1
+
+#EXTINF:-1, CCTV5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 55.99294947121034%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1f3"></span></span>
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
+
+#EXTINF:-1, CCTV5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 55.99294947121034%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1f3"></span></span>
+http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1, CCTV5 + <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 55.99294947121034%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1f3"></span></span>
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1, CANAL CHINO 4 魅力足球 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 55.99294947121034%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1f3"></span></span>
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+
+#EXTINF:-1, CANAL CHINO 5 新视觉 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 55.99294947121034%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1f3"></span></span>
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+
+#EXTINF:-1, CANAL CHINO 6 CCTV5+Sport <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 55.99294947121034%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1f3"></span></span>
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1, J_sport_1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 55.99294947121034%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1f3"></span></span>
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1, J_sport_2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 55.99294947121034%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1f3"></span></span>
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1, J_sport_3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 55.99294947121034%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1f3"></span></span>
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1, J_sport_4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 55.99294947121034%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1f3"></span></span>
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1, TVRI SPORTS INDONESIA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 69.9764982373678%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1e9"></span></span>
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1, VIDIO INDOSIAR <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 69.9764982373678%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1e9"></span></span>
+https://akudandia.xyz//locs/akudandia-205.m3u8
+
+#EXTINF:-1,SPOTV <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1f2-1f1fe"></span></span>
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1,SPOTV <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1f2-1f1fe"></span></span>
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1650553339~exp=9007200905294330~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=03539604195d0d0f8533982d94a512fd5592f7a4a2ecca5608615ef2b0d3248d
+
+#EXTINF:-1,TVONE <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 81.96239717978848%;background-size:5418.75% 5418.75%" data-codepoints="1f1f2-1f1fe"></span></span>
+http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1, Now Sports Prime <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1f9-1f1ed"></span></span>
+http://livetv.dnsfor.me/channel.12.m3u8
+
+#EXTINF:-1,RikSports HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1f9-1f1ed"></span></span>
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8
+
+#EXTINF:-1, K+ Sport 1 VTN <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 48.00235017626322%;background-size:5418.75% 5418.75%" data-codepoints="1f1fb-1f1f3"></span></span>
+https://raw.githubusercontent.com/cdn-free/bookish-giggle/main/file.m3u8
+
+#EXTINF:-1, ON Sports+ <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 48.00235017626322%;background-size:5418.75% 5418.75%" data-codepoints="1f1fb-1f1f3"></span></span>
+https://api.vthanhtivii.xyz/v1/getlink/vtvgo/196
+
+#EXTINF:-1, ON Sports <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 48.00235017626322%;background-size:5418.75% 5418.75%" data-codepoints="1f1fb-1f1f3"></span></span>
+http://cdn.socolacdn.online:8080/onsporttv/mpegts
+
+#EXTINF:-1, TURMEKISTAN SPORT  <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 14.042303172737954%;background-size:5418.75% 5418.75%" data-codepoints="1f1f9-1f1f7"></span></span>
+http://217.174.225.146/hls/ch004_720/index.m3u8?token=
+
+#EXTINF:-1, TURMEKISTAN SPORT  <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 14.042303172737954%;background-size:5418.75% 5418.75%" data-codepoints="1f1f9-1f1f7"></span></span>
+http://217.174.225.146/hls/ch004_720/index.m3u8?shareext.ts
+
+#EXTINF:-1, TURMEKISTAN SPORT  <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 14.042303172737954%;background-size:5418.75% 5418.75%" data-codepoints="1f1f9-1f1f7"></span></span>
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1, TURMEKISTAN SPORT  <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 14.042303172737954%;background-size:5418.75% 5418.75%" data-codepoints="1f1f9-1f1f7"></span></span>
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1,S SPORT 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 14.042303172737954%;background-size:5418.75% 5418.75%" data-codepoints="1f1f9-1f1f7"></span></span>
+http://nx4545.xyz:80/live/ademgumus/ademgumus/35.ts
+
+#EXTINF:-1,TRT 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 14.042303172737954%;background-size:5418.75% 5418.75%" data-codepoints="1f1f9-1f1f7"></span></span>
+https://mn-nl.mncdn.com/blutv_trt1_dvr/live.m3u8
+
+#EXTINF:-1,TRT 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 14.042303172737954%;background-size:5418.75% 5418.75%" data-codepoints="1f1f9-1f1f7"></span></span>
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+
+#EXTINF:-1, SPORTV TUR <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 14.042303172737954%;background-size:5418.75% 5418.75%" data-codepoints="1f1f9-1f1f7"></span></span>
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+
+#EXTINF:-1,SPORTS TV <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 14.042303172737954%;background-size:5418.75% 5418.75%" data-codepoints="1f1f9-1f1f7"></span></span>
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1, TNT SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1f7"></span></span>
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1, TNT SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1f7"></span></span>
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1,TNTSPORTS 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1f7"></span></span>
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1, TNTSPORTS 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1f7"></span></span>
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1,TNTSPORTS 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1f7"></span></span>
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1, TNTSPORTS 4 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1f7"></span></span>
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1, TNTSPORTS 5 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1f7"></span></span>
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1, ESPORTE INTERACTIVO <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1f7"></span></span>
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1, BAND Sports <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1f7"></span></span>
+http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, STADIUM <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1f7"></span></span>
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
+
+#EXTINF:-1,GOL TV PERU <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 12.044653349001175%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1ea"></span></span>
+http://45.71.185.142:8500/play/a03b
+
+#EXTINF:-1,PRENDETV LIGA MX <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:6.0517038777908345% 79.9647473560517%;background-size:5418.75% 5418.75%" data-codepoints="1f1f2-1f1fd"></span></span>
+https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1,TIGO SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1f7"></span></span>
+http://latinosiptv.online:8090/notocar/xmauc84bx1/2110?index.m3u8
+
+#EXTINF:-1, SKY SPORTS 24 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 87.95534665099882%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1f9"></span></span>
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+
+#EXTINF:-1, 11 INTERNACIONAL PORTUGAL <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1f5-1f1f9"></span></span>
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+
+#EXTINF:-1,SWISS SPORT TV <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 46.00470035252644%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1ed"></span></span>
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+
+#EXTINF:-1, EUROSPORT
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+
+#EXTINF:-1, A SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 77.96709753231492%;background-size:5418.75% 5418.75%" data-codepoints="1f1ee-1f1f3"></span></span>
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+
+#EXTINF:-1, BAHRAIN SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 6.0517038777908345%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1ed"></span></span>
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+
+#EXTINF:-1, ARMENIA TV <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 75.96944770857814%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f2"></span></span>
+http://ott-cdn.ucom.am/s4/04.m3u8
+
+#EXTINF:-1, PREMIUM ARMENIA TV <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:0.05875440658049354% 75.96944770857814%;background-size:5418.75% 5418.75%" data-codepoints="1f1e6-1f1f2"></span></span>
+http://ott-cdn.ucom.am/s83/03.m3u8
+
+#EXTINF:-1, DUBAI SPORTS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 50%;background-size:5418.75% 5418.75%" data-codepoints="1f1f8-1f1e6"></span></span>
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,DUBAI SPORTS 3 FHD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 50%;background-size:5418.75% 5418.75%" data-codepoints="1f1f8-1f1e6"></span></span>
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
+
+#EXTINF:-1, SHARJJAH SPORT <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 50%;background-size:5418.75% 5418.75%" data-codepoints="1f1f8-1f1e6"></span></span>
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:-1, 4 SPORT <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 95.94594594594594%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1ec"></span></span>
+http://80.24.75.92:5555/udp/239.111.2.8:1234
+
+#EXTINF:-1, OMAN SPORT <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 8.049353701527615%;background-size:5418.75% 5418.75%" data-codepoints="1f1f4-1f1f2"></span></span>
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+
+#EXTINF:-1,CID 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 50%;background-size:5418.75% 5418.75%" data-codepoints="1f1f8-1f1e6"></span></span>
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 
+
+#EXTINF:-1, ARAB CHANNEL 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 50%;background-size:5418.75% 5418.75%" data-codepoints="1f1f8-1f1e6"></span></span>
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1,AD SPORTS 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 50%;background-size:5418.75% 5418.75%" data-codepoints="1f1f8-1f1e6"></span></span>
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-1, YAS <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 50%;background-size:5418.75% 5418.75%" data-codepoints="1f1f8-1f1e6"></span></span>
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+
+#EXTINF:-1, ARHAT SPORT TV <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:8.049353701527615% 50%;background-size:5418.75% 5418.75%" data-codepoints="1f1f8-1f1e6"></span></span>
+http://arhat.tv/public/360p/index.m3u8
+
+#EXTINF:-1, FootballHub
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:-1, TELETRAK
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1, BEK SPORTS
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+
+#EXTINF:-1, LAX SPORTS
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+
+#EXTINF:-1, ALL SPORTS TV <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 22.032902467685076%;background-size:5418.75% 5418.75%" data-codepoints="1f1e7-1f1f7"></span></span>
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1, ATG1
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#EXTINF:-1, LA 7 CYL <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+
+#EXTINF:-1, LA 8 VALLADOLID <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
+
+#EXTINF:-1, MEGA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
+
+#EXTINF:-1, ESPORTES CATALUÑA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/.m3u8
+
+#EXTINF:-1, ESPORTES CATALUÑA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://directes-tv-es.ccma.cat/es/ngrp:es3_mobil/playlist.m3u8
+
+#EXTINF:-1, ESPORT CAT <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://directes-tv-cat.ccma.cat:443/cat/ngrp:es3_web/chunklist_b4128000.m3u8
+
+#EXTINF:-1, CICLISMO ESUKERA (EITB) <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3u8
+
+#EXTINF:-1, TELEDEPORTE <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://ztnr.rtve.es/ztnr/1712295.m3u8?by
+
+#EXTINF:-1, TELEDEPORTE <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
+
+#EXTINF:-1, TELEDEPORTE <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_1080.m3u8
+
+#EXTINF:-1, GH2 GALICIA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://events1-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1, PALY UD SPORT ESP <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/high/index.m3u8
+
+#EXTINF:-1,C MORE Event 1
+http://84.17.61.200:4000/play/a001
+
+#EXTINF:-1,C MORE Event 2
+http://84.17.61.200:4000/play/a002
+
+#EXTINF:-1, Channel 1
+https://alplay.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=1650270384-0-0-48c6ca8a63158bfe5e9a6a038b0676e2
+
+#EXTINF:-1, Channel 2
+https://alplay.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1650270470-0-0-8fccdc7f7bc8c0794d340d1e16371658
+
+#EXTINF:-1, Channel 3
+https://alplay.zhengyaning.com/xoilac/channel-3.m3u8?auth_key=1650270558-0-0-cbb563d4f1f3b8cc89aa7d3466bd4b47
+
+#EXTINF:-1, Channel 4
+https://alplay.zhengyaning.com/xoilac/channel-4.m3u8?auth_key=1650270580-0-0-17538c7bccec7438ccdb9471e475778b
+
+#EXTINF:-1, Channel 5
+https://acdn.zhengyaning.com/xoilac/channel-5.m3u8?auth_key=1645859296-0-0-85a698c78d1d59e34239c8e598b43d38
+
+#EXTINF:-1, Channel 6
+https://acdn.zhengyaning.com/xoilac/channel-6.m3u8?auth_key=1645859322-0-0-fae0eb082f6836877046b19a4df6672a
+
+#EXTINF:-1, Channel 7
+https://acdn.zhengyaning.com/xoilac/channel-7.m3u8?auth_key=1645859345-0-0-963cacbbd0a3d4a32bc9baaf0bd43a2a
+
+#EXTINF:-1, Channel 8
+https://acdn.zhengyaning.com/xoilac/channel-8.m3u8?auth_key=1645859421-0-0-f41d5ef6017c01d6b3b23d7e009cdf9c
+
+#EXTINF:-1, Channel 9
+https://acdn.zhengyaning.com/xoilac/channel-9.m3u8?auth_key=1645859441-0-0-1a12df632ea519cd6141c5e85af14ea5
+
+#EXTINF:-1, Channel 10
+https://acdn.zhengyaning.com/xoilac/channel-10.m3u8?auth_key=1645859460-0-0-b7025c023971adda1514bdd7ec8fbdaf
+
+#EXTINF:-1, Channel 11
+https://acdn.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1645859482-0-0-6bc23936151f20c56d90cec933fb17d3
+
+#EXTINF:-1, ZHENG 1
+https://alplay.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=1650270384-0-0-48c6ca8a63158bfe5e9a6a038b0676e2
+
+#EXTINF:-1, ZHENG 7
+https://alplay.zhengyaning.com/xoilac/channel-7.m3u8?auth_key=1650270660-0-0-7fc1765f80325a79ba7c47bc03cd3cc7
+
+#EXTINF:-1, O2 TV Tennis HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:2.056404230317274% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f1e8-1f1ff"></span></span> 
+http://84.42.140.148:8880/hdmi
+
+#EXTINF:-1, TENNIS SK1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 61.98589894242068%;background-size:5418.75% 5418.75%" data-codepoints="1f1ed-1f1f7"></span></span>
+http://194.15.225.98:8000/play/a2qu
+
+#EXTINF:-1, TENNIS LIVE 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+http://Richi@stream2.grandma.fit/acc.m3u8
+
+#EXTINF:-1, TENNIS LIVE 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:10.047003525264394% 32.02115158636898%;background-size:5418.75% 5418.75%" data-codepoints="1f1fa-1f1f8"></span></span>
+http://stream2.grandma.fit/acc.m3u8
+
+#EXTINF:-1, TENNIS 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span> 
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+
+#EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 2 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 20.035252643948294%;background-size:5418.75% 5418.75%" data-codepoints="1f1ec-1f1e7"></span></span>
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, Giro d'Italia 
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+
+#EXTINF:-1, Giro d'Italia 
+http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://venomtt.com:8000/50568166938023/51353855007829/200439
+
+#EXTINF:-1, MOVISTAR LALIGA 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://line.thesmartiptv.com:900/4297836676/9573024070/165971
+
+#EXTINF:-1, MOVISTAR LALIGA 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://line.thesmartiptv.com:900/4297836676/9573024070/187554
+
+#EXTINF:-1, MOVISTAR LALIGA 1 <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/240130
+
+#EXTINF:-1,LALIGA TV BAR <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://dontuse.offshorerev.cc/SPIDER_F175Sd/422pl9z2/105115
+
+#EXTINF:-1, MOVISTAR LALIGA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://venomtt.com:8000/50568166938023/51353855007829/200437
+
+#EXTINF:-1, MOVISTAR LALIGA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://venomtt.com:8000/50568166938023/51353855007829/30202
+
+#EXTINF:-1, MOVISTAR LALIGA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/220973
+
+#EXTINF:-1, MOVISTAR LALIGA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://line.thesmartiptv.com:900/4297836676/9573024070/165970
+
+#EXTINF:-1, MOVISTAR LALIGA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/603
+
+#EXTINF:-1, MOVISTAR LALIGA <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/604
+
+#EXTINF:-1,M. Liga de Campeones HD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:4.054054054054054% 0.05875440658049354%;background-size:5418.75% 5418.75%" data-codepoints="1f1ea-1f1f8"></span></span>
+http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3062
+
+#EXTINF:-1, REAL MADRID TV
+http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
+
